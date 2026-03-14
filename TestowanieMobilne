@@ -1,0 +1,4 @@
+git init
+git remote add origin https://github.com/TestowanieMobilne/TM-95592.git
+git branch -M main
+ push -u origin main
