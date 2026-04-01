@@ -1,0 +1,3986 @@
+[
+    {
+        "file": "abc_action_bar_title_item.xml",
+        "id": "action_bar_title",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_action_bar_title_item.xml",
+        "id": "action_bar_subtitle",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_action_mode_close_item_material.xml",
+        "id": "action_mode_close_button",
+        "tag": "ImageView",
+        "contentDescription": "@string/abc_action_mode_done"
+    },
+    {
+        "file": "abc_activity_chooser_view.xml",
+        "id": "activity_chooser_view_content",
+        "tag": "view",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_activity_chooser_view.xml",
+        "id": "expand_activities_button",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_activity_chooser_view.xml",
+        "id": "image",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_activity_chooser_view.xml",
+        "id": "default_activity_button",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_activity_chooser_view.xml",
+        "id": "image",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_activity_chooser_view_list_item.xml",
+        "id": "list_item",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_activity_chooser_view_list_item.xml",
+        "id": "icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_activity_chooser_view_list_item.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_button_bar_material.xml",
+        "id": "buttonPanel",
+        "tag": "ScrollView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_button_bar_material.xml",
+        "id": "button3",
+        "tag": "Button",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_button_bar_material.xml",
+        "id": "spacer",
+        "tag": "android.widget.Space",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_button_bar_material.xml",
+        "id": "button2",
+        "tag": "Button",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_button_bar_material.xml",
+        "id": "button1",
+        "tag": "Button",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "parentPanel",
+        "tag": "androidx.appcompat.widget.AlertDialogLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "contentPanel",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "scrollIndicatorUp",
+        "tag": "View",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "scrollView",
+        "tag": "androidx.core.widget.NestedScrollView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "textSpacerNoTitle",
+        "tag": "android.widget.Space",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "message",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "textSpacerNoButtons",
+        "tag": "android.widget.Space",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "scrollIndicatorDown",
+        "tag": "View",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "customPanel",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_material.xml",
+        "id": "custom",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_title_material.xml",
+        "id": "topPanel",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_title_material.xml",
+        "id": "title_template",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_title_material.xml",
+        "id": "icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_title_material.xml",
+        "id": "alertTitle",
+        "tag": "androidx.appcompat.widget.DialogTitle",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_alert_dialog_title_material.xml",
+        "id": "titleDividerNoCustom",
+        "tag": "android.widget.Space",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_cascading_menu_item_layout.xml",
+        "id": "group_divider",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_cascading_menu_item_layout.xml",
+        "id": "content",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_cascading_menu_item_layout.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_cascading_menu_item_layout.xml",
+        "id": "shortcut",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_cascading_menu_item_layout.xml",
+        "id": "submenuarrow",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_dialog_title_material.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_expanded_menu_layout.xml",
+        "id": "expanded_menu",
+        "tag": "androidx.appcompat.view.menu.ExpandedMenuView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_list_menu_item_checkbox.xml",
+        "id": "checkbox",
+        "tag": "CheckBox",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_list_menu_item_icon.xml",
+        "id": "icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_list_menu_item_layout.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_list_menu_item_layout.xml",
+        "id": "shortcut",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_list_menu_item_radio.xml",
+        "id": "radio",
+        "tag": "RadioButton",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_popup_menu_header_item_layout.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_popup_menu_item_layout.xml",
+        "id": "group_divider",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_popup_menu_item_layout.xml",
+        "id": "content",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_popup_menu_item_layout.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_popup_menu_item_layout.xml",
+        "id": "shortcut",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_popup_menu_item_layout.xml",
+        "id": "submenuarrow",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_content_include.xml",
+        "id": "action_bar_activity_content",
+        "tag": "androidx.appcompat.widget.ContentFrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_simple.xml",
+        "id": "action_bar_root",
+        "tag": "androidx.appcompat.widget.FitWindowsLinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_simple.xml",
+        "id": "action_mode_bar_stub",
+        "tag": "androidx.appcompat.widget.ViewStubCompat",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_simple_overlay_action_mode.xml",
+        "id": "action_bar_root",
+        "tag": "androidx.appcompat.widget.FitWindowsFrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_simple_overlay_action_mode.xml",
+        "id": "action_mode_bar_stub",
+        "tag": "androidx.appcompat.widget.ViewStubCompat",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_toolbar.xml",
+        "id": "decor_content_parent",
+        "tag": "androidx.appcompat.widget.ActionBarOverlayLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_toolbar.xml",
+        "id": "action_bar_container",
+        "tag": "androidx.appcompat.widget.ActionBarContainer",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_toolbar.xml",
+        "id": "action_bar",
+        "tag": "androidx.appcompat.widget.Toolbar",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_screen_toolbar.xml",
+        "id": "action_context_bar",
+        "tag": "androidx.appcompat.widget.ActionBarContextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_dropdown_item_icons_2line.xml",
+        "id": "icon1",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_dropdown_item_icons_2line.xml",
+        "id": "edit_query",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_dropdown_item_icons_2line.xml",
+        "id": "icon2",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_dropdown_item_icons_2line.xml",
+        "id": "text2",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_dropdown_item_icons_2line.xml",
+        "id": "text1",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_bar",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_badge",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_button",
+        "tag": "ImageView",
+        "contentDescription": "@string/abc_searchview_description_search"
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_edit_frame",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_mag_icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_plate",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_src_text",
+        "tag": "view",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_close_btn",
+        "tag": "ImageView",
+        "contentDescription": "@string/abc_searchview_description_clear"
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "submit_area",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_go_btn",
+        "tag": "ImageView",
+        "contentDescription": "@string/abc_searchview_description_submit"
+    },
+    {
+        "file": "abc_search_view.xml",
+        "id": "search_voice_btn",
+        "tag": "ImageView",
+        "contentDescription": "@string/abc_searchview_description_voice"
+    },
+    {
+        "file": "abc_select_dialog_material.xml",
+        "id": "select_dialog_listview",
+        "tag": "view",
+        "contentDescription": ""
+    },
+    {
+        "file": "abc_tooltip.xml",
+        "id": "message",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "accessibility_service.xml",
+        "id": "button",
+        "tag": "ImageButton",
+        "contentDescription": ""
+    },
+    {
+        "file": "action_bar_display_options.xml",
+        "id": "toggle_home_as_up",
+        "tag": "Button",
+        "contentDescription": "@string/toggle_home_as_up"
+    },
+    {
+        "file": "action_bar_display_options.xml",
+        "id": "toggle_show_home",
+        "tag": "Button",
+        "contentDescription": "@string/toggle_show_home"
+    },
+    {
+        "file": "action_bar_display_options.xml",
+        "id": "toggle_use_logo",
+        "tag": "Button",
+        "contentDescription": "@string/toggle_use_logo"
+    },
+    {
+        "file": "action_bar_display_options.xml",
+        "id": "toggle_show_title",
+        "tag": "Button",
+        "contentDescription": "@string/toggle_show_title"
+    },
+    {
+        "file": "action_bar_display_options.xml",
+        "id": "toggle_show_custom",
+        "tag": "Button",
+        "contentDescription": "@string/toggle_show_custom"
+    },
+    {
+        "file": "action_bar_display_options.xml",
+        "id": "toggle_navigation",
+        "tag": "Button",
+        "contentDescription": "@string/toggle_navigation"
+    },
+    {
+        "file": "action_bar_display_options.xml",
+        "id": "cycle_custom_gravity",
+        "tag": "Button",
+        "contentDescription": "@string/cycle_custom_gravity"
+    },
+    {
+        "file": "action_bar_settings_action_provider.xml",
+        "id": "button",
+        "tag": "ImageButton",
+        "contentDescription": ""
+    },
+    {
+        "file": "action_bar_tabs.xml",
+        "id": "fragment_content",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "action_bar_tabs.xml",
+        "id": "btn_add_tab",
+        "tag": "Button",
+        "contentDescription": "@string/btn_add_tab"
+    },
+    {
+        "file": "action_bar_tabs.xml",
+        "id": "btn_remove_tab",
+        "tag": "Button",
+        "contentDescription": "@string/btn_remove_tab"
+    },
+    {
+        "file": "action_bar_tabs.xml",
+        "id": "btn_toggle_tabs",
+        "tag": "Button",
+        "contentDescription": "@string/btn_toggle_tabs"
+    },
+    {
+        "file": "action_bar_tabs.xml",
+        "id": "btn_remove_all_tabs",
+        "tag": "Button",
+        "contentDescription": "@string/btn_remove_all_tabs"
+    },
+    {
+        "file": "action_bar_tab_content.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "activity_animation.xml",
+        "id": "fade_animation",
+        "tag": "Button",
+        "contentDescription": "@string/activity_animation_fade"
+    },
+    {
+        "file": "activity_animation.xml",
+        "id": "zoom_animation",
+        "tag": "Button",
+        "contentDescription": "@string/activity_animation_zoom"
+    },
+    {
+        "file": "activity_animation.xml",
+        "id": "modern_fade_animation",
+        "tag": "Button",
+        "contentDescription": "@string/activity_modern_animation_fade"
+    },
+    {
+        "file": "activity_animation.xml",
+        "id": "modern_zoom_animation",
+        "tag": "Button",
+        "contentDescription": "@string/activity_modern_animation_zoom"
+    },
+    {
+        "file": "activity_animation.xml",
+        "id": "scale_up_animation",
+        "tag": "Button",
+        "contentDescription": "@string/activity_scale_up_animation"
+    },
+    {
+        "file": "activity_animation.xml",
+        "id": "zoom_thumbnail_animation",
+        "tag": "Button",
+        "contentDescription": "@string/activity_zoom_thumbnail_animation"
+    },
+    {
+        "file": "activity_finish_affinity.xml",
+        "id": "seq",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "activity_finish_affinity.xml",
+        "id": "nest",
+        "tag": "Button",
+        "contentDescription": "Nest some more"
+    },
+    {
+        "file": "activity_finish_affinity.xml",
+        "id": "finish",
+        "tag": "Button",
+        "contentDescription": "FINISH!"
+    },
+    {
+        "file": "activity_recreate.xml",
+        "id": "recreate",
+        "tag": "Button",
+        "contentDescription": "@string/recreate"
+    },
+    {
+        "file": "alarm_controller.xml",
+        "id": "one_shot",
+        "tag": "Button",
+        "contentDescription": "@string/one_shot_alarm"
+    },
+    {
+        "file": "alarm_controller.xml",
+        "id": "start_repeating",
+        "tag": "Button",
+        "contentDescription": "@string/start_repeating_alarm"
+    },
+    {
+        "file": "alarm_controller.xml",
+        "id": "stop_repeating",
+        "tag": "Button",
+        "contentDescription": "@string/stop_repeating_alarm"
+    },
+    {
+        "file": "alarm_service.xml",
+        "id": "start_alarm",
+        "tag": "Button",
+        "contentDescription": "@string/start_alarm_service"
+    },
+    {
+        "file": "alarm_service.xml",
+        "id": "stop_alarm",
+        "tag": "Button",
+        "contentDescription": "@string/stop_alarm_service"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "screen",
+        "tag": "ScrollView",
+        "contentDescription": ""
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "two_buttons",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_two_buttons"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "two_buttons2",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_two_buttons2"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "two_buttons2ultra",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_two_buttons2ultra"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "select_button",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_select_button"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "progress_button",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_progress_button"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "radio_button",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_single_choice"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "checkbox_button",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_multi_choice"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "checkbox_button2",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_multi_choice_cursor"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "text_entry_button",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_text_entry"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "two_buttons_old_school",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_two_buttons_old_school"
+    },
+    {
+        "file": "alert_dialog.xml",
+        "id": "two_buttons_holo_light",
+        "tag": "Button",
+        "contentDescription": "@string/alert_dialog_two_buttons_holo_light"
+    },
+    {
+        "file": "alert_dialog_text_entry.xml",
+        "id": "username_view",
+        "tag": "TextView",
+        "contentDescription": "@string/alert_dialog_username"
+    },
+    {
+        "file": "alert_dialog_text_entry.xml",
+        "id": "username_edit",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "alert_dialog_text_entry.xml",
+        "id": "password_view",
+        "tag": "TextView",
+        "contentDescription": "@string/alert_dialog_password"
+    },
+    {
+        "file": "alert_dialog_text_entry.xml",
+        "id": "password_edit",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "animations_main_screen.xml",
+        "id": "container",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animations_main_screen.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "animations_main_screen.xml",
+        "id": "picture",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_1.xml",
+        "id": "pw",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_1.xml",
+        "id": "login",
+        "tag": "Button",
+        "contentDescription": "@string/googlelogin_login"
+    },
+    {
+        "file": "animation_2.xml",
+        "id": "flipper",
+        "tag": "ViewFlipper",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_2.xml",
+        "id": "spinner",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_3.xml",
+        "id": "target",
+        "tag": "TextView",
+        "contentDescription": "@string/animation_3_text"
+    },
+    {
+        "file": "animation_3.xml",
+        "id": "spinner",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_cloning.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_cloning.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Run"
+    },
+    {
+        "file": "animation_custom_evaluator.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_custom_evaluator.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Play"
+    },
+    {
+        "file": "animation_loading.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_loading.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Run"
+    },
+    {
+        "file": "animation_multi_property.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_multi_property.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Run"
+    },
+    {
+        "file": "animation_reversing.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_reversing.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Play"
+    },
+    {
+        "file": "animation_reversing.xml",
+        "id": "reverseButton",
+        "tag": "Button",
+        "contentDescription": "Reverse"
+    },
+    {
+        "file": "animation_seeking.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animation_seeking.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Run"
+    },
+    {
+        "file": "animation_seeking.xml",
+        "id": "seekBar",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "animator_custom_evaluator.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animator_custom_evaluator.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Play"
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "startButton",
+        "tag": "Button",
+        "contentDescription": "Play"
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "cancelButton",
+        "tag": "Button",
+        "contentDescription": "Cancel"
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "endButton",
+        "tag": "Button",
+        "contentDescription": "End"
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "endCB",
+        "tag": "CheckBox",
+        "contentDescription": "End Immediately"
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "startText",
+        "tag": "TextView",
+        "contentDescription": "Start   "
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "repeatText",
+        "tag": "TextView",
+        "contentDescription": "Repeat   "
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "cancelText",
+        "tag": "TextView",
+        "contentDescription": "Cancel   "
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "endText",
+        "tag": "TextView",
+        "contentDescription": "End"
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "startTextAnimator",
+        "tag": "TextView",
+        "contentDescription": "Start   "
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "repeatTextAnimator",
+        "tag": "TextView",
+        "contentDescription": "Repeat   "
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "cancelTextAnimator",
+        "tag": "TextView",
+        "contentDescription": "Cancel   "
+    },
+    {
+        "file": "animator_events.xml",
+        "id": "endTextAnimator",
+        "tag": "TextView",
+        "contentDescription": "End"
+    },
+    {
+        "file": "appwidget_configure.xml",
+        "id": "appwidget_prefix",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "appwidget_configure.xml",
+        "id": "save_button",
+        "tag": "Button",
+        "contentDescription": "@android:string/ok"
+    },
+    {
+        "file": "appwidget_provider.xml",
+        "id": "appwidget_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "autocomplete_1.xml",
+        "id": "edit",
+        "tag": "AutoCompleteTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "autocomplete_2.xml",
+        "id": "edit",
+        "tag": "AutoCompleteTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "autocomplete_3.xml",
+        "id": "edit",
+        "tag": "AutoCompleteTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "autocomplete_3.xml",
+        "id": "edit2",
+        "tag": "AutoCompleteTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "autocomplete_4.xml",
+        "id": "edit",
+        "tag": "AutoCompleteTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "autocomplete_5.xml",
+        "id": "edit",
+        "tag": "AutoCompleteTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "autocomplete_6.xml",
+        "id": "edit",
+        "tag": "MultiAutoCompleteTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "baseline_6.xml",
+        "id": "anchor",
+        "tag": "EditText",
+        "contentDescription": "@string/baseline_6_multi_line"
+    },
+    {
+        "file": "baseline_7.xml",
+        "id": "anchor",
+        "tag": "TextView",
+        "contentDescription": "@string/baseline_7_fat"
+    },
+    {
+        "file": "bouncing_balls.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "buttons_1.xml",
+        "id": "button_normal",
+        "tag": "Button",
+        "contentDescription": "@string/buttons_1_normal"
+    },
+    {
+        "file": "buttons_1.xml",
+        "id": "button_small",
+        "tag": "Button",
+        "contentDescription": "@string/buttons_1_small"
+    },
+    {
+        "file": "buttons_1.xml",
+        "id": "button_toggle",
+        "tag": "ToggleButton",
+        "contentDescription": "@string/buttons_1_toggle"
+    },
+    {
+        "file": "chronometer.xml",
+        "id": "chronometer",
+        "tag": "Chronometer",
+        "contentDescription": ""
+    },
+    {
+        "file": "chronometer.xml",
+        "id": "start",
+        "tag": "Button",
+        "contentDescription": "@string/chronometer_start"
+    },
+    {
+        "file": "chronometer.xml",
+        "id": "stop",
+        "tag": "Button",
+        "contentDescription": "@string/chronometer_stop"
+    },
+    {
+        "file": "chronometer.xml",
+        "id": "reset",
+        "tag": "Button",
+        "contentDescription": "@string/chronometer_reset"
+    },
+    {
+        "file": "chronometer.xml",
+        "id": "set_format",
+        "tag": "Button",
+        "contentDescription": "@string/chronometer_set_format"
+    },
+    {
+        "file": "chronometer.xml",
+        "id": "clear_format",
+        "tag": "Button",
+        "contentDescription": "@string/chronometer_clear_format"
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "copy_styled_text",
+        "tag": "Button",
+        "contentDescription": "@string/copy_text"
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "styled_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "copy_plain_text",
+        "tag": "Button",
+        "contentDescription": "@string/copy_text"
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "plain_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "copy_html_text",
+        "tag": "Button",
+        "contentDescription": "@string/copy_text"
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "html_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "copy_intent",
+        "tag": "Button",
+        "contentDescription": "@string/copy_intent"
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "copy_uri",
+        "tag": "Button",
+        "contentDescription": "@string/copy_uri"
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "clip_type",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "clip_mime_types",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "clipboard.xml",
+        "id": "clip_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "contacts_filter.xml",
+        "id": "go",
+        "tag": "Button",
+        "contentDescription": "@string/go"
+    },
+    {
+        "file": "content_browser.xml",
+        "id": "content",
+        "tag": "view",
+        "contentDescription": ""
+    },
+    {
+        "file": "content_browser.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": "A title goes here"
+    },
+    {
+        "file": "content_browser.xml",
+        "id": "seekbar",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "button",
+        "tag": "Button",
+        "contentDescription": "@string/controls_1_save"
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "button_disabled",
+        "tag": "Button",
+        "contentDescription": "@string/controls_1_save"
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "edit",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "edit2",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "check1",
+        "tag": "CheckBox",
+        "contentDescription": "@string/controls_1_checkbox_1"
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "check2",
+        "tag": "CheckBox",
+        "contentDescription": "@string/controls_1_checkbox_2"
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "radio1",
+        "tag": "RadioButton",
+        "contentDescription": "@string/controls_1_radiobutton_1"
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "radio2",
+        "tag": "RadioButton",
+        "contentDescription": "@string/controls_1_radiobutton_2"
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "star",
+        "tag": "CheckBox",
+        "contentDescription": "@string/controls_1_star"
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "toggle1",
+        "tag": "ToggleButton",
+        "contentDescription": ""
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "toggle2",
+        "tag": "ToggleButton",
+        "contentDescription": ""
+    },
+    {
+        "file": "controls_1.xml",
+        "id": "spinner1",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "custom_dialog_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/custom_dialog_activity_text"
+    },
+    {
+        "file": "custom_picker_1.xml",
+        "id": "numberPicker1",
+        "tag": "NumberPicker",
+        "contentDescription": ""
+    },
+    {
+        "file": "custom_picker_1.xml",
+        "id": "textView1",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "custom_title.xml",
+        "id": "screen",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "custom_title.xml",
+        "id": "left_text_edit",
+        "tag": "EditText",
+        "contentDescription": "@string/custom_title_left"
+    },
+    {
+        "file": "custom_title.xml",
+        "id": "left_text_button",
+        "tag": "Button",
+        "contentDescription": "@string/custom_title_left_button"
+    },
+    {
+        "file": "custom_title.xml",
+        "id": "right_text_edit",
+        "tag": "EditText",
+        "contentDescription": "@string/custom_title_right"
+    },
+    {
+        "file": "custom_title.xml",
+        "id": "right_text_button",
+        "tag": "Button",
+        "contentDescription": "@string/custom_title_right_button"
+    },
+    {
+        "file": "custom_title_1.xml",
+        "id": "screen",
+        "tag": "RelativeLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "custom_title_1.xml",
+        "id": "left_text",
+        "tag": "TextView",
+        "contentDescription": "@string/custom_title_left"
+    },
+    {
+        "file": "custom_title_1.xml",
+        "id": "right_text",
+        "tag": "TextView",
+        "contentDescription": "@string/custom_title_right"
+    },
+    {
+        "file": "date_widgets_example_1.xml",
+        "id": "dateDisplay",
+        "tag": "TextView",
+        "contentDescription": "@string/date_widgets_example_dateDisplay_text"
+    },
+    {
+        "file": "date_widgets_example_1.xml",
+        "id": "pickDate",
+        "tag": "Button",
+        "contentDescription": "@string/date_widgets_example_pickDate_text"
+    },
+    {
+        "file": "date_widgets_example_1.xml",
+        "id": "pickTime",
+        "tag": "Button",
+        "contentDescription": "@string/date_widgets_example_pickTime_text"
+    },
+    {
+        "file": "date_widgets_example_1.xml",
+        "id": "pickTimeSpinner",
+        "tag": "Button",
+        "contentDescription": "@string/date_widgets_example_pickTime_spinner_text"
+    },
+    {
+        "file": "date_widgets_example_2.xml",
+        "id": "timePicker",
+        "tag": "TimePicker",
+        "contentDescription": ""
+    },
+    {
+        "file": "date_widgets_example_2.xml",
+        "id": "dateDisplay",
+        "tag": "TextView",
+        "contentDescription": "@string/date_widgets_example_dateDisplay_text"
+    },
+    {
+        "file": "dialog_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/dialog_activity_text"
+    },
+    {
+        "file": "dialog_activity.xml",
+        "id": "inner_content",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "dialog_activity.xml",
+        "id": "add",
+        "tag": "Button",
+        "contentDescription": "@string/dialog_activity_add"
+    },
+    {
+        "file": "dialog_activity.xml",
+        "id": "remove",
+        "tag": "Button",
+        "contentDescription": "@string/dialog_activity_remove"
+    },
+    {
+        "file": "drag_layout.xml",
+        "id": "drag_explanation",
+        "tag": "TextView",
+        "contentDescription": "@string/drag_explanation"
+    },
+    {
+        "file": "drag_layout.xml",
+        "id": "drag_dot_1",
+        "tag": "io.appium.android.apis.view.DraggableDot",
+        "contentDescription": ""
+    },
+    {
+        "file": "drag_layout.xml",
+        "id": "drag_dot_2",
+        "tag": "io.appium.android.apis.view.DraggableDot",
+        "contentDescription": ""
+    },
+    {
+        "file": "drag_layout.xml",
+        "id": "drag_dot_3",
+        "tag": "io.appium.android.apis.view.DraggableDot",
+        "contentDescription": ""
+    },
+    {
+        "file": "drag_layout.xml",
+        "id": "drag_dot_hidden",
+        "tag": "io.appium.android.apis.view.DraggableDot",
+        "contentDescription": ""
+    },
+    {
+        "file": "drag_layout.xml",
+        "id": "drag_result_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "drag_layout.xml",
+        "id": "drag_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "external_storage.xml",
+        "id": "layout",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "external_storage_item.xml",
+        "id": "label",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "external_storage_item.xml",
+        "id": "path",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "external_storage_item.xml",
+        "id": "create",
+        "tag": "Button",
+        "contentDescription": "@string/create"
+    },
+    {
+        "file": "external_storage_item.xml",
+        "id": "delete",
+        "tag": "Button",
+        "contentDescription": "@string/delete"
+    },
+    {
+        "file": "focus_1.xml",
+        "id": "txtStatus",
+        "tag": "TextView",
+        "contentDescription": "@string/focus_1_message"
+    },
+    {
+        "file": "focus_1.xml",
+        "id": "rssListView",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "focus_1.xml",
+        "id": "rssWebView",
+        "tag": "WebView",
+        "contentDescription": ""
+    },
+    {
+        "file": "focus_2.xml",
+        "id": "leftButton",
+        "tag": "Button",
+        "contentDescription": "@string/focus_2_left"
+    },
+    {
+        "file": "focus_2.xml",
+        "id": "centerButton",
+        "tag": "Button",
+        "contentDescription": "@string/focus_2_jump"
+    },
+    {
+        "file": "focus_2.xml",
+        "id": "rightButton",
+        "tag": "Button",
+        "contentDescription": "@string/focus_2_right"
+    },
+    {
+        "file": "focus_3.xml",
+        "id": "top",
+        "tag": "Button",
+        "contentDescription": "@string/focus_3_top"
+    },
+    {
+        "file": "focus_3.xml",
+        "id": "right",
+        "tag": "Button",
+        "contentDescription": "@string/focus_3_right"
+    },
+    {
+        "file": "focus_3.xml",
+        "id": "bottom",
+        "tag": "Button",
+        "contentDescription": "@string/focus_3_bottom"
+    },
+    {
+        "file": "focus_3.xml",
+        "id": "left",
+        "tag": "Button",
+        "contentDescription": "@string/focus_3_left"
+    },
+    {
+        "file": "focus_5.xml",
+        "id": "button1",
+        "tag": "Button",
+        "contentDescription": "@string/focus_5_button1"
+    },
+    {
+        "file": "focus_5.xml",
+        "id": "button2",
+        "tag": "Button",
+        "contentDescription": "@string/focus_5_button2"
+    },
+    {
+        "file": "focus_5.xml",
+        "id": "button3",
+        "tag": "Button",
+        "contentDescription": "@string/focus_5_button3"
+    },
+    {
+        "file": "focus_5.xml",
+        "id": "button4",
+        "tag": "Button",
+        "contentDescription": "@string/focus_5_button4"
+    },
+    {
+        "file": "focus_5.xml",
+        "id": "button5",
+        "tag": "Button",
+        "contentDescription": "@string/focus_5_button5"
+    },
+    {
+        "file": "foreground_dispatch.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "foreground_service_controller.xml",
+        "id": "start_foreground",
+        "tag": "Button",
+        "contentDescription": "@string/start_service_foreground"
+    },
+    {
+        "file": "foreground_service_controller.xml",
+        "id": "start_background",
+        "tag": "Button",
+        "contentDescription": "@string/start_service_background"
+    },
+    {
+        "file": "foreground_service_controller.xml",
+        "id": "stop",
+        "tag": "Button",
+        "contentDescription": "@string/stop_service"
+    },
+    {
+        "file": "forwarding.xml",
+        "id": "go",
+        "tag": "Button",
+        "contentDescription": "@string/go"
+    },
+    {
+        "file": "fragment_arguments.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/fragment_arguments_msg"
+    },
+    {
+        "file": "fragment_arguments.xml",
+        "id": "embedded",
+        "tag": "fragment",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_arguments.xml",
+        "id": "created",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_arguments_fragment.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/fragment_arguments_fragment_msg"
+    },
+    {
+        "file": "fragment_arguments_fragment.xml",
+        "id": "created1",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_arguments_fragment.xml",
+        "id": "created2",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_context_menu.xml",
+        "id": "long_press",
+        "tag": "Button",
+        "contentDescription": "@string/long_press"
+    },
+    {
+        "file": "fragment_dialog.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_dialog.xml",
+        "id": "show",
+        "tag": "Button",
+        "contentDescription": "@string/show"
+    },
+    {
+        "file": "fragment_dialog_or_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/fragment_dialog_or_activity_msg"
+    },
+    {
+        "file": "fragment_dialog_or_activity.xml",
+        "id": "show_dialog",
+        "tag": "Button",
+        "contentDescription": "@string/show"
+    },
+    {
+        "file": "fragment_dialog_or_activity.xml",
+        "id": "inline_text",
+        "tag": "TextView",
+        "contentDescription": "@string/fragment_dialog_or_activity_inline"
+    },
+    {
+        "file": "fragment_dialog_or_activity.xml",
+        "id": "embedded",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_hide_show.xml",
+        "id": "frag1hide",
+        "tag": "Button",
+        "contentDescription": "Hide"
+    },
+    {
+        "file": "fragment_hide_show.xml",
+        "id": "fragment1",
+        "tag": "fragment",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_hide_show.xml",
+        "id": "frag2hide",
+        "tag": "Button",
+        "contentDescription": "Hide"
+    },
+    {
+        "file": "fragment_hide_show.xml",
+        "id": "fragment2",
+        "tag": "fragment",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_layout.xml",
+        "id": "titles",
+        "tag": "fragment",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_menu.xml",
+        "id": "menu1",
+        "tag": "CheckBox",
+        "contentDescription": "@string/fragment1menu"
+    },
+    {
+        "file": "fragment_menu.xml",
+        "id": "menu2",
+        "tag": "CheckBox",
+        "contentDescription": "@string/fragment2menu"
+    },
+    {
+        "file": "fragment_retain_instance.xml",
+        "id": "progress_horizontal",
+        "tag": "ProgressBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_retain_instance.xml",
+        "id": "restart",
+        "tag": "Button",
+        "contentDescription": "@string/restart"
+    },
+    {
+        "file": "fragment_stack.xml",
+        "id": "simple_fragment",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_stack.xml",
+        "id": "new_fragment",
+        "tag": "Button",
+        "contentDescription": "@string/new_fragment"
+    },
+    {
+        "file": "fragment_stack.xml",
+        "id": "delete_fragment",
+        "tag": "Button",
+        "contentDescription": "@string/delete_fragment"
+    },
+    {
+        "file": "fragment_tabs_fragment.xml",
+        "id": "tabhost",
+        "tag": "TabHost",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_tabs_fragment.xml",
+        "id": "tabs",
+        "tag": "TabWidget",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_tabs_fragment.xml",
+        "id": "tabcontent",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "fragment_tabs_fragment.xml",
+        "id": "realtabcontent",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "gallery_1.xml",
+        "id": "layout2",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "gallery_1.xml",
+        "id": "gallery",
+        "tag": "Gallery",
+        "contentDescription": ""
+    },
+    {
+        "file": "gallery_1.xml",
+        "id": "EditText01",
+        "tag": "EditText",
+        "contentDescription": "@id/EditText01"
+    },
+    {
+        "file": "gallery_2.xml",
+        "id": "gallery",
+        "tag": "Gallery",
+        "contentDescription": ""
+    },
+    {
+        "file": "game_controller_input.xml",
+        "id": "description",
+        "tag": "TextView",
+        "contentDescription": "@string/game_controller_input_description"
+    },
+    {
+        "file": "game_controller_input.xml",
+        "id": "summary",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "game_controller_input.xml",
+        "id": "game",
+        "tag": "io.appium.android.apis.view.GameView",
+        "contentDescription": ""
+    },
+    {
+        "file": "game_controller_input_text_column.xml",
+        "id": "label",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "game_controller_input_text_column.xml",
+        "id": "content",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "google_login.xml",
+        "id": "login",
+        "tag": "Button",
+        "contentDescription": "@string/googlelogin_login"
+    },
+    {
+        "file": "google_login.xml",
+        "id": "bad_login",
+        "tag": "Button",
+        "contentDescription": "@string/googlelogin_bad_login"
+    },
+    {
+        "file": "google_login.xml",
+        "id": "clear",
+        "tag": "Button",
+        "contentDescription": "@string/googlelogin_clear"
+    },
+    {
+        "file": "google_login.xml",
+        "id": "username_label",
+        "tag": "TextView",
+        "contentDescription": "@string/googlelogin_user"
+    },
+    {
+        "file": "google_login.xml",
+        "id": "username",
+        "tag": "TextView",
+        "contentDescription": "@string/google_login_username_text"
+    },
+    {
+        "file": "grid_1.xml",
+        "id": "myGrid",
+        "tag": "GridView",
+        "contentDescription": ""
+    },
+    {
+        "file": "grid_2.xml",
+        "id": "myGrid",
+        "tag": "GridView",
+        "contentDescription": ""
+    },
+    {
+        "file": "hello_world.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/hello_world"
+    },
+    {
+        "file": "hover.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "hover.xml",
+        "id": "description",
+        "tag": "TextView",
+        "contentDescription": "@string/hover_description"
+    },
+    {
+        "file": "hover.xml",
+        "id": "message",
+        "tag": "TextView",
+        "contentDescription": "@string/hover_message_initial"
+    },
+    {
+        "file": "hover.xml",
+        "id": "intercept_checkbox",
+        "tag": "CheckBox",
+        "contentDescription": "@string/hover_intercept_checkbox"
+    },
+    {
+        "file": "hover.xml",
+        "id": "interceptor",
+        "tag": "io.appium.android.apis.view.HoverInterceptorView",
+        "contentDescription": ""
+    },
+    {
+        "file": "hover.xml",
+        "id": "intercept_message",
+        "tag": "TextView",
+        "contentDescription": "@string/hover_intercept_message_initial"
+    },
+    {
+        "file": "image_switcher_1.xml",
+        "id": "switcher",
+        "tag": "ImageSwitcher",
+        "contentDescription": ""
+    },
+    {
+        "file": "image_switcher_1.xml",
+        "id": "gallery",
+        "tag": "Gallery",
+        "contentDescription": ""
+    },
+    {
+        "file": "incoming_message.xml",
+        "id": "notify_app",
+        "tag": "Button",
+        "contentDescription": "Show App Notification"
+    },
+    {
+        "file": "incoming_message.xml",
+        "id": "notify_interstitial",
+        "tag": "Button",
+        "contentDescription": "Show Interstitial Notification"
+    },
+    {
+        "file": "incoming_message_info.xml",
+        "id": "message",
+        "tag": "TextView",
+        "contentDescription": "@string/incoming_message_info_message_text"
+    },
+    {
+        "file": "incoming_message_interstitial.xml",
+        "id": "notify_app",
+        "tag": "Button",
+        "contentDescription": "Switch To App"
+    },
+    {
+        "file": "incoming_message_panel.xml",
+        "id": "message",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "incoming_message_view.xml",
+        "id": "from",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "incoming_message_view.xml",
+        "id": "message",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "install_apk.xml",
+        "id": "unknown_source",
+        "tag": "Button",
+        "contentDescription": "Unknown Source"
+    },
+    {
+        "file": "install_apk.xml",
+        "id": "my_source",
+        "tag": "Button",
+        "contentDescription": "My Source"
+    },
+    {
+        "file": "install_apk.xml",
+        "id": "replace",
+        "tag": "Button",
+        "contentDescription": "Replace"
+    },
+    {
+        "file": "install_apk.xml",
+        "id": "uninstall",
+        "tag": "Button",
+        "contentDescription": "Uninstall"
+    },
+    {
+        "file": "install_apk.xml",
+        "id": "uninstall_result",
+        "tag": "Button",
+        "contentDescription": "Uninstall w/Result"
+    },
+    {
+        "file": "intents.xml",
+        "id": "get_music",
+        "tag": "Button",
+        "contentDescription": "@string/get_music"
+    },
+    {
+        "file": "intent_activity_flags.xml",
+        "id": "flag_activity_clear_task",
+        "tag": "Button",
+        "contentDescription": "@string/flag_activity_clear_task"
+    },
+    {
+        "file": "intent_activity_flags.xml",
+        "id": "flag_activity_clear_task_pi",
+        "tag": "Button",
+        "contentDescription": "@string/flag_activity_clear_task_pi"
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "start1",
+        "tag": "Button",
+        "contentDescription": "@string/start_service_1"
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "stop1",
+        "tag": "Button",
+        "contentDescription": "@string/stop_service_1"
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "bind1",
+        "tag": "CheckBox",
+        "contentDescription": "@string/bind_service_1"
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "status1",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "start2",
+        "tag": "Button",
+        "contentDescription": "@string/start_service_2"
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "stop2",
+        "tag": "Button",
+        "contentDescription": "@string/stop_service_2"
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "bind2",
+        "tag": "CheckBox",
+        "contentDescription": "@string/bind_service_2"
+    },
+    {
+        "file": "isolated_service_controller.xml",
+        "id": "status2",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "key_event_text.xml",
+        "id": "text",
+        "tag": "io.appium.android.apis.text.LogTextBox",
+        "contentDescription": ""
+    },
+    {
+        "file": "key_event_text.xml",
+        "id": "clear",
+        "tag": "Button",
+        "contentDescription": "@string/key_event_text_clear_text"
+    },
+    {
+        "file": "labeled_text_edit.xml",
+        "id": "msg",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "labeled_text_edit.xml",
+        "id": "saved",
+        "tag": "EditText",
+        "contentDescription": "@string/initial_text"
+    },
+    {
+        "file": "launcher_shortcuts.xml",
+        "id": "txt_shortcut_intent",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animations.xml",
+        "id": "parent",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animations.xml",
+        "id": "addNewButton",
+        "tag": "Button",
+        "contentDescription": "Add Button"
+    },
+    {
+        "file": "layout_animations.xml",
+        "id": "customAnimCB",
+        "tag": "CheckBox",
+        "contentDescription": "Custom Animations"
+    },
+    {
+        "file": "layout_animations.xml",
+        "id": "appearingCB",
+        "tag": "CheckBox",
+        "contentDescription": "In"
+    },
+    {
+        "file": "layout_animations.xml",
+        "id": "disappearingCB",
+        "tag": "CheckBox",
+        "contentDescription": "Out"
+    },
+    {
+        "file": "layout_animations.xml",
+        "id": "changingAppearingCB",
+        "tag": "CheckBox",
+        "contentDescription": "Changing-In"
+    },
+    {
+        "file": "layout_animations.xml",
+        "id": "changingDisappearingCB",
+        "tag": "CheckBox",
+        "contentDescription": "Changing-Out"
+    },
+    {
+        "file": "layout_animations_by_default.xml",
+        "id": "addNewButton",
+        "tag": "Button",
+        "contentDescription": "Add Button"
+    },
+    {
+        "file": "layout_animations_by_default.xml",
+        "id": "gridContainer",
+        "tag": "GridLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animations_hideshow.xml",
+        "id": "parent",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animations_hideshow.xml",
+        "id": "addNewButton",
+        "tag": "Button",
+        "contentDescription": "Show Buttons"
+    },
+    {
+        "file": "layout_animations_hideshow.xml",
+        "id": "customAnimCB",
+        "tag": "CheckBox",
+        "contentDescription": "Custom Animations"
+    },
+    {
+        "file": "layout_animations_hideshow.xml",
+        "id": "hideGoneCB",
+        "tag": "CheckBox",
+        "contentDescription": "Hide (GONE)"
+    },
+    {
+        "file": "layout_animation_1.xml",
+        "id": "grid",
+        "tag": "GridView",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animation_3.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animation_4.xml",
+        "id": "grid",
+        "tag": "GridView",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animation_5.xml",
+        "id": "grid",
+        "tag": "GridView",
+        "contentDescription": ""
+    },
+    {
+        "file": "layout_animation_6.xml",
+        "id": "grid",
+        "tag": "GridView",
+        "contentDescription": ""
+    },
+    {
+        "file": "linear_layout_8.xml",
+        "id": "layout",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "linear_layout_9.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "link.xml",
+        "id": "text1",
+        "tag": "TextView",
+        "contentDescription": "@string/link_text_auto"
+    },
+    {
+        "file": "link.xml",
+        "id": "text2",
+        "tag": "TextView",
+        "contentDescription": "@string/link_text_manual"
+    },
+    {
+        "file": "link.xml",
+        "id": "text3",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "link.xml",
+        "id": "text4",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_12.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_12.xml",
+        "id": "userText",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_13.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_13.xml",
+        "id": "status",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_7.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_7.xml",
+        "id": "phone",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_8.xml",
+        "id": "add",
+        "tag": "Button",
+        "contentDescription": "@string/list_8_new_photo"
+    },
+    {
+        "file": "list_8.xml",
+        "id": "clear",
+        "tag": "Button",
+        "contentDescription": "@string/list_8_clear_photos"
+    },
+    {
+        "file": "list_8.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_8.xml",
+        "id": "empty",
+        "tag": "TextView",
+        "contentDescription": "@string/list_8_no_photos"
+    },
+    {
+        "file": "list_item_checkbox.xml",
+        "id": "text1",
+        "tag": "CheckBox",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_item_icon_text.xml",
+        "id": "icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "list_item_icon_text.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "local_sample.xml",
+        "id": "go",
+        "tag": "Button",
+        "contentDescription": "@string/go"
+    },
+    {
+        "file": "local_service_binding.xml",
+        "id": "bind",
+        "tag": "Button",
+        "contentDescription": "@string/bind_service"
+    },
+    {
+        "file": "local_service_binding.xml",
+        "id": "unbind",
+        "tag": "Button",
+        "contentDescription": "@string/unbind_service"
+    },
+    {
+        "file": "local_service_controller.xml",
+        "id": "start",
+        "tag": "Button",
+        "contentDescription": "@string/start_service"
+    },
+    {
+        "file": "local_service_controller.xml",
+        "id": "stop",
+        "tag": "Button",
+        "contentDescription": "@string/stop_service"
+    },
+    {
+        "file": "log_text_box_1.xml",
+        "id": "add",
+        "tag": "Button",
+        "contentDescription": "@string/log_text_box_1_add_text"
+    },
+    {
+        "file": "log_text_box_1.xml",
+        "id": "text",
+        "tag": "io.appium.android.apis.text.LogTextBox",
+        "contentDescription": ""
+    },
+    {
+        "file": "mapview.xml",
+        "id": "main",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "mediaplayer_1.xml",
+        "id": "localvideo",
+        "tag": "Button",
+        "contentDescription": "@string/local_video"
+    },
+    {
+        "file": "mediaplayer_1.xml",
+        "id": "streamvideo",
+        "tag": "Button",
+        "contentDescription": "@string/stream_video"
+    },
+    {
+        "file": "mediaplayer_1.xml",
+        "id": "localaudio",
+        "tag": "Button",
+        "contentDescription": "@string/local_audio"
+    },
+    {
+        "file": "mediaplayer_1.xml",
+        "id": "resourcesaudio",
+        "tag": "Button",
+        "contentDescription": "@string/res_audio"
+    },
+    {
+        "file": "mediaplayer_2.xml",
+        "id": "surface",
+        "tag": "SurfaceView",
+        "contentDescription": ""
+    },
+    {
+        "file": "messenger_service_binding.xml",
+        "id": "bind",
+        "tag": "Button",
+        "contentDescription": "@string/bind_service"
+    },
+    {
+        "file": "messenger_service_binding.xml",
+        "id": "unbind",
+        "tag": "Button",
+        "contentDescription": "@string/unbind_service"
+    },
+    {
+        "file": "messenger_service_binding.xml",
+        "id": "callback",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "morse_code.xml",
+        "id": "text",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "morse_code.xml",
+        "id": "button",
+        "tag": "Button",
+        "contentDescription": "@string/vibrate"
+    },
+    {
+        "file": "notification_action.xml",
+        "id": "action_container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_action.xml",
+        "id": "action_image",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_action.xml",
+        "id": "action_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_action_tombstone.xml",
+        "id": "action_container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_action_tombstone.xml",
+        "id": "action_image",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_action_tombstone.xml",
+        "id": "action_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "notification_background",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "notification_main_column_container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "notification_main_column",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "right_side",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "time",
+        "tag": "ViewStub",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "chronometer",
+        "tag": "ViewStub",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "info",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "right_icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "action_divider",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_custom_big.xml",
+        "id": "actions",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_icon_group.xml",
+        "id": "icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_part_chronometer.xml",
+        "id": "chronometer",
+        "tag": "Chronometer",
+        "contentDescription": ""
+    },
+    {
+        "file": "notification_template_part_time.xml",
+        "id": "time",
+        "tag": "DateTimeView",
+        "contentDescription": ""
+    },
+    {
+        "file": "notifying_controller.xml",
+        "id": "notifyStart",
+        "tag": "Button",
+        "contentDescription": "@string/start_service"
+    },
+    {
+        "file": "notifying_controller.xml",
+        "id": "notifyStop",
+        "tag": "Button",
+        "contentDescription": "@string/stop_service"
+    },
+    {
+        "file": "notify_with_text.xml",
+        "id": "short_notify",
+        "tag": "Button",
+        "contentDescription": "@string/notify_with_text_short_notify_text"
+    },
+    {
+        "file": "notify_with_text.xml",
+        "id": "long_notify",
+        "tag": "Button",
+        "contentDescription": "@string/notify_with_text_long_notify_text"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "image",
+        "tag": "view",
+        "contentDescription": ""
+    },
+    {
+        "file": "overscan.xml",
+        "id": "modeLowProfile",
+        "tag": "CheckBox",
+        "contentDescription": "LOW_PROFILE"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "modeFullscreen",
+        "tag": "CheckBox",
+        "contentDescription": "FULLSCREEN"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "modeHideNavigation",
+        "tag": "CheckBox",
+        "contentDescription": "HIDE_NAVIGATION"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "layoutStable",
+        "tag": "CheckBox",
+        "contentDescription": "STABLE"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "layoutFullscreen",
+        "tag": "CheckBox",
+        "contentDescription": "FULLSCREEN"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "layoutHideNavigation",
+        "tag": "CheckBox",
+        "contentDescription": "HIDE_NAVIGATION"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "windowFullscreen",
+        "tag": "CheckBox",
+        "contentDescription": "FULLSCREEN"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "windowHideActionBar",
+        "tag": "CheckBox",
+        "contentDescription": "Hide ActionBar"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "windowActionMode",
+        "tag": "CheckBox",
+        "contentDescription": "Action Mode"
+    },
+    {
+        "file": "overscan.xml",
+        "id": "metricsText",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "pick_contact.xml",
+        "id": "pick_contact",
+        "tag": "Button",
+        "contentDescription": "@string/pick_contact"
+    },
+    {
+        "file": "pick_contact.xml",
+        "id": "pick_person",
+        "tag": "Button",
+        "contentDescription": "@string/pick_person"
+    },
+    {
+        "file": "pick_contact.xml",
+        "id": "pick_phone",
+        "tag": "Button",
+        "contentDescription": "@string/pick_phone"
+    },
+    {
+        "file": "pick_contact.xml",
+        "id": "pick_address",
+        "tag": "Button",
+        "contentDescription": "@string/pick_address"
+    },
+    {
+        "file": "preference_widget_mypreference.xml",
+        "id": "mypreference_widget",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/presentation_activity_text"
+    },
+    {
+        "file": "presentation_activity.xml",
+        "id": "show_all_displays",
+        "tag": "CheckBox",
+        "contentDescription": "@string/presentation_show_all_displays"
+    },
+    {
+        "file": "presentation_activity.xml",
+        "id": "display_list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_content.xml",
+        "id": "image",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_content.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_list_item.xml",
+        "id": "checkbox_presentation",
+        "tag": "CheckBox",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_list_item.xml",
+        "id": "display_id",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_list_item.xml",
+        "id": "info",
+        "tag": "Button",
+        "contentDescription": "@string/presentation_info_text"
+    },
+    {
+        "file": "presentation_with_media_router_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/presentation_with_media_router_activity_text"
+    },
+    {
+        "file": "presentation_with_media_router_activity.xml",
+        "id": "info",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_with_media_router_activity.xml",
+        "id": "surface_view",
+        "tag": "android.opengl.GLSurfaceView",
+        "contentDescription": ""
+    },
+    {
+        "file": "presentation_with_media_router_content.xml",
+        "id": "surface_view",
+        "tag": "android.opengl.GLSurfaceView",
+        "contentDescription": ""
+    },
+    {
+        "file": "progressbar_1.xml",
+        "id": "progress_horizontal",
+        "tag": "ProgressBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "progressbar_1.xml",
+        "id": "decrease",
+        "tag": "Button",
+        "contentDescription": "@string/progressbar_1_minus"
+    },
+    {
+        "file": "progressbar_1.xml",
+        "id": "increase",
+        "tag": "Button",
+        "contentDescription": "@string/progressbar_1_plus"
+    },
+    {
+        "file": "progressbar_1.xml",
+        "id": "decrease_secondary",
+        "tag": "Button",
+        "contentDescription": "@string/progressbar_1_minus"
+    },
+    {
+        "file": "progressbar_1.xml",
+        "id": "increase_secondary",
+        "tag": "Button",
+        "contentDescription": "@string/progressbar_1_plus"
+    },
+    {
+        "file": "progressbar_2.xml",
+        "id": "progress_large",
+        "tag": "ProgressBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "progressbar_2.xml",
+        "id": "progress",
+        "tag": "ProgressBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "progressbar_2.xml",
+        "id": "progress_small",
+        "tag": "ProgressBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "progressbar_2.xml",
+        "id": "progress_small_title",
+        "tag": "ProgressBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "progressbar_3.xml",
+        "id": "showIndeterminate",
+        "tag": "Button",
+        "contentDescription": "@string/progressbar_3_indeterminate"
+    },
+    {
+        "file": "progressbar_3.xml",
+        "id": "showIndeterminateNoTitle",
+        "tag": "Button",
+        "contentDescription": "@string/progressbar_3_indeterminate_no_title"
+    },
+    {
+        "file": "progressbar_4.xml",
+        "id": "toggle",
+        "tag": "Button",
+        "contentDescription": "@string/progressbar_4_toggle"
+    },
+    {
+        "file": "quick_contacts.xml",
+        "id": "badge",
+        "tag": "QuickContactBadge",
+        "contentDescription": ""
+    },
+    {
+        "file": "quick_contacts.xml",
+        "id": "name",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "radio_group_1.xml",
+        "id": "menu",
+        "tag": "RadioGroup",
+        "contentDescription": ""
+    },
+    {
+        "file": "radio_group_1.xml",
+        "id": "breakfast",
+        "tag": "RadioButton",
+        "contentDescription": "@string/radio_group_1_breakfast"
+    },
+    {
+        "file": "radio_group_1.xml",
+        "id": "lunch",
+        "tag": "RadioButton",
+        "contentDescription": "@string/radio_group_1_lunch"
+    },
+    {
+        "file": "radio_group_1.xml",
+        "id": "dinner",
+        "tag": "RadioButton",
+        "contentDescription": "@string/radio_group_1_dinner"
+    },
+    {
+        "file": "radio_group_1.xml",
+        "id": "all",
+        "tag": "RadioButton",
+        "contentDescription": "@string/radio_group_1_all"
+    },
+    {
+        "file": "radio_group_1.xml",
+        "id": "choice",
+        "tag": "TextView",
+        "contentDescription": "@string/radio_group_1_selection"
+    },
+    {
+        "file": "radio_group_1.xml",
+        "id": "clear",
+        "tag": "Button",
+        "contentDescription": "@string/radio_group_1_clear"
+    },
+    {
+        "file": "ratingbar_1.xml",
+        "id": "ratingbar1",
+        "tag": "RatingBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "ratingbar_1.xml",
+        "id": "ratingbar2",
+        "tag": "RatingBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "ratingbar_1.xml",
+        "id": "rating",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "ratingbar_1.xml",
+        "id": "small_ratingbar",
+        "tag": "RatingBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "ratingbar_1.xml",
+        "id": "indicator_ratingbar",
+        "tag": "RatingBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "read_asset.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "receive_result.xml",
+        "id": "results",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "receive_result.xml",
+        "id": "get",
+        "tag": "Button",
+        "contentDescription": "@string/receive_result_result"
+    },
+    {
+        "file": "redirect_enter.xml",
+        "id": "go",
+        "tag": "Button",
+        "contentDescription": "@string/go"
+    },
+    {
+        "file": "redirect_getter.xml",
+        "id": "text",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "redirect_getter.xml",
+        "id": "apply",
+        "tag": "Button",
+        "contentDescription": "@string/apply"
+    },
+    {
+        "file": "redirect_main.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "redirect_main.xml",
+        "id": "clear",
+        "tag": "Button",
+        "contentDescription": "@string/clear_text"
+    },
+    {
+        "file": "redirect_main.xml",
+        "id": "newView",
+        "tag": "Button",
+        "contentDescription": "@string/new_text"
+    },
+    {
+        "file": "relative_layout_1.xml",
+        "id": "view1",
+        "tag": "TextView",
+        "contentDescription": "@string/relative_layout_1_top"
+    },
+    {
+        "file": "relative_layout_1.xml",
+        "id": "view2",
+        "tag": "TextView",
+        "contentDescription": "@string/relative_layout_1_bottom"
+    },
+    {
+        "file": "relative_layout_1.xml",
+        "id": "view3",
+        "tag": "TextView",
+        "contentDescription": "@string/relative_layout_1_center"
+    },
+    {
+        "file": "relative_layout_2.xml",
+        "id": "label",
+        "tag": "TextView",
+        "contentDescription": "@string/relative_layout_2_instructions"
+    },
+    {
+        "file": "relative_layout_2.xml",
+        "id": "entry",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "relative_layout_2.xml",
+        "id": "ok",
+        "tag": "Button",
+        "contentDescription": "@string/relative_layout_2_ok"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "callback",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "bind_normal",
+        "tag": "Button",
+        "contentDescription": "Normal"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "bind_not_foreground",
+        "tag": "Button",
+        "contentDescription": "Not Foreground"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "bind_above_client",
+        "tag": "Button",
+        "contentDescription": "Above Client"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "bind_allow_oom",
+        "tag": "Button",
+        "contentDescription": "Allow OOM Management"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "bind_waive_priority",
+        "tag": "Button",
+        "contentDescription": "Waive Priority"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "bind_important",
+        "tag": "Button",
+        "contentDescription": "Important"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "bind_with_activity",
+        "tag": "Button",
+        "contentDescription": "Adjust With Activity"
+    },
+    {
+        "file": "remote_binding_options.xml",
+        "id": "unbind",
+        "tag": "Button",
+        "contentDescription": "@string/unbind_service"
+    },
+    {
+        "file": "remote_service_binding.xml",
+        "id": "bind",
+        "tag": "Button",
+        "contentDescription": "@string/bind_service"
+    },
+    {
+        "file": "remote_service_binding.xml",
+        "id": "unbind",
+        "tag": "Button",
+        "contentDescription": "@string/unbind_service"
+    },
+    {
+        "file": "remote_service_binding.xml",
+        "id": "kill",
+        "tag": "Button",
+        "contentDescription": "@string/kill_process"
+    },
+    {
+        "file": "remote_service_binding.xml",
+        "id": "callback",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "remote_service_controller.xml",
+        "id": "start",
+        "tag": "Button",
+        "contentDescription": "@string/start_service"
+    },
+    {
+        "file": "remote_service_controller.xml",
+        "id": "stop",
+        "tag": "Button",
+        "contentDescription": "@string/stop_service"
+    },
+    {
+        "file": "reorder_four.xml",
+        "id": "reorder_second_to_front",
+        "tag": "Button",
+        "contentDescription": "@string/reorder_second_to_front"
+    },
+    {
+        "file": "reorder_on_launch.xml",
+        "id": "reorder_launch_two",
+        "tag": "Button",
+        "contentDescription": "@string/reorder_launch_two"
+    },
+    {
+        "file": "reorder_three.xml",
+        "id": "reorder_launch_four",
+        "tag": "Button",
+        "contentDescription": "@string/reorder_launch_four"
+    },
+    {
+        "file": "reorder_two.xml",
+        "id": "reorder_launch_three",
+        "tag": "Button",
+        "contentDescription": "@string/reorder_launch_three"
+    },
+    {
+        "file": "resources.xml",
+        "id": "styled_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "resources.xml",
+        "id": "plain_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "resources.xml",
+        "id": "res1",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_list.xml",
+        "id": "button",
+        "tag": "Button",
+        "contentDescription": "Flip"
+    },
+    {
+        "file": "rotating_list.xml",
+        "id": "list_en",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_list.xml",
+        "id": "list_fr",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "container",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "translationX",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "translationY",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "scaleX",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "scaleY",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "rotationX",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "rotationY",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "rotationZ",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "rotating_view.xml",
+        "id": "rotatingButton",
+        "tag": "Button",
+        "contentDescription": "Rotating Button"
+    },
+    {
+        "file": "save_restore_state.xml",
+        "id": "msg",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "save_restore_state.xml",
+        "id": "saved",
+        "tag": "EditText",
+        "contentDescription": "@string/initial_text"
+    },
+    {
+        "file": "screen_orientation.xml",
+        "id": "orientation",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "scrollbar3.xml",
+        "id": "view3",
+        "tag": "ScrollView",
+        "contentDescription": ""
+    },
+    {
+        "file": "scrollbar3.xml",
+        "id": "view4",
+        "tag": "ScrollView",
+        "contentDescription": ""
+    },
+    {
+        "file": "scrollbar3.xml",
+        "id": "view5",
+        "tag": "ScrollView",
+        "contentDescription": ""
+    },
+    {
+        "file": "scroll_view_1.xml",
+        "id": "layout",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "scroll_view_2.xml",
+        "id": "layout",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "searchview_actionbar.xml",
+        "id": "status_text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "searchview_filter.xml",
+        "id": "search_view",
+        "tag": "SearchView",
+        "contentDescription": ""
+    },
+    {
+        "file": "searchview_filter.xml",
+        "id": "list_view",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "search_invoke.xml",
+        "id": "btn_start_search",
+        "tag": "Button",
+        "contentDescription": "@string/label_onsearchrequested"
+    },
+    {
+        "file": "search_invoke.xml",
+        "id": "spinner_menu_mode",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "search_invoke.xml",
+        "id": "txt_query_prefill",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "search_invoke.xml",
+        "id": "txt_query_appdata",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "search_query_results.xml",
+        "id": "txt_query",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "search_query_results.xml",
+        "id": "txt_appdata",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "search_query_results.xml",
+        "id": "txt_deliveredby",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "secure_dialog_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/secure_dialog_activity_text"
+    },
+    {
+        "file": "secure_dialog_activity.xml",
+        "id": "show",
+        "tag": "Button",
+        "contentDescription": "@string/secure_dialog_show_button"
+    },
+    {
+        "file": "secure_surface_view_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/secure_surface_view_activity_text"
+    },
+    {
+        "file": "secure_surface_view_activity.xml",
+        "id": "surface_view",
+        "tag": "android.opengl.GLSurfaceView",
+        "contentDescription": ""
+    },
+    {
+        "file": "secure_view.xml",
+        "id": "secure_view_description",
+        "tag": "TextView",
+        "contentDescription": "@string/secure_view_description"
+    },
+    {
+        "file": "secure_view.xml",
+        "id": "secure_view_toast_button",
+        "tag": "Button",
+        "contentDescription": "@string/secure_view_pop_toast"
+    },
+    {
+        "file": "secure_view.xml",
+        "id": "secure_view_unsecure_button",
+        "tag": "Button",
+        "contentDescription": "@string/secure_view_button"
+    },
+    {
+        "file": "secure_view.xml",
+        "id": "secure_view_builtin_secure_button",
+        "tag": "Button",
+        "contentDescription": "@string/secure_view_button"
+    },
+    {
+        "file": "secure_view.xml",
+        "id": "secure_view_custom_secure_button",
+        "tag": "Button",
+        "contentDescription": "@string/secure_view_button"
+    },
+    {
+        "file": "secure_view_overlay.xml",
+        "id": "secure_view_overlay_description",
+        "tag": "TextView",
+        "contentDescription": "@string/secure_view_overlay_description"
+    },
+    {
+        "file": "secure_view_overlay.xml",
+        "id": "secure_view_overlay_button1",
+        "tag": "Button",
+        "contentDescription": "@string/secure_view_overlay_button1"
+    },
+    {
+        "file": "secure_view_overlay.xml",
+        "id": "secure_view_overlay_button2",
+        "tag": "Button",
+        "contentDescription": "@string/secure_view_overlay_button2"
+    },
+    {
+        "file": "secure_view_overlay.xml",
+        "id": "secure_view_overlay_button3",
+        "tag": "Button",
+        "contentDescription": "@string/secure_view_overlay_button3"
+    },
+    {
+        "file": "secure_window_activity.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/secure_window_activity_text"
+    },
+    {
+        "file": "seekbar_1.xml",
+        "id": "seek",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "seekbar_1.xml",
+        "id": "progress",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "seekbar_1.xml",
+        "id": "tracking",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "select_dialog.xml",
+        "id": "screen",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "select_dialog.xml",
+        "id": "show_dialog",
+        "tag": "Button",
+        "contentDescription": "@string/select_dialog_show"
+    },
+    {
+        "file": "select_dialog.xml",
+        "id": "message",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "select_dialog_item_material.xml",
+        "id": "text1",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "select_dialog_multichoice_material.xml",
+        "id": "text1",
+        "tag": "CheckedTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "select_dialog_singlechoice_material.xml",
+        "id": "text1",
+        "tag": "CheckedTextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "send_result.xml",
+        "id": "corky",
+        "tag": "Button",
+        "contentDescription": "@string/corky"
+    },
+    {
+        "file": "send_result.xml",
+        "id": "violet",
+        "tag": "Button",
+        "contentDescription": "@string/violet"
+    },
+    {
+        "file": "service_start_arguments_controller.xml",
+        "id": "start1",
+        "tag": "Button",
+        "contentDescription": "@string/start1_service"
+    },
+    {
+        "file": "service_start_arguments_controller.xml",
+        "id": "start2",
+        "tag": "Button",
+        "contentDescription": "@string/start2_service"
+    },
+    {
+        "file": "service_start_arguments_controller.xml",
+        "id": "start3",
+        "tag": "Button",
+        "contentDescription": "@string/start3_service"
+    },
+    {
+        "file": "service_start_arguments_controller.xml",
+        "id": "startfail",
+        "tag": "Button",
+        "contentDescription": "@string/startfail_service"
+    },
+    {
+        "file": "service_start_arguments_controller.xml",
+        "id": "kill",
+        "tag": "Button",
+        "contentDescription": "@string/kill_process"
+    },
+    {
+        "file": "simple_list_item_checkable_1.xml",
+        "id": "text1",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "sms_demo.xml",
+        "id": "sms_enable_receiver",
+        "tag": "CheckBox",
+        "contentDescription": "@string/sms_enable_receiver"
+    },
+    {
+        "file": "sms_demo.xml",
+        "id": "sms_recipient",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "sms_demo.xml",
+        "id": "sms_content",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "sms_demo.xml",
+        "id": "sms_send_message",
+        "tag": "Button",
+        "contentDescription": "@string/sms_send_message"
+    },
+    {
+        "file": "sms_demo.xml",
+        "id": "sms_status",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "soft_input_modes.xml",
+        "id": "resize_mode",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "soft_input_modes.xml",
+        "id": "saved",
+        "tag": "EditText",
+        "contentDescription": "@string/soft_input_modes_initial_text"
+    },
+    {
+        "file": "spinner_1.xml",
+        "id": "spinner1",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "spinner_1.xml",
+        "id": "spinner2",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "split_touch_view.xml",
+        "id": "list1",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "split_touch_view.xml",
+        "id": "list2",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "status_bar_balloon.xml",
+        "id": "icon",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "status_bar_balloon.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "happy",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_happy"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "neutral",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_ok"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "sad",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_sad"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "happyMarquee",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_happy"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "neutralMarquee",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_ok"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "sadMarquee",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_sad"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "happyViews",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_happy"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "neutralViews",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_ok"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "sadViews",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_sad"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "defaultSound",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_default_sound"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "defaultVibrate",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_default_vibrate"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "defaultAll",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_default_all"
+    },
+    {
+        "file": "status_bar_notifications.xml",
+        "id": "clear",
+        "tag": "Button",
+        "contentDescription": "@string/status_bar_notifications_clear"
+    },
+    {
+        "file": "styled_text.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "support_simple_spinner_dropdown_item.xml",
+        "id": "text1",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "surface_view_overlay.xml",
+        "id": "glsurfaceview",
+        "tag": "android.opengl.GLSurfaceView",
+        "contentDescription": ""
+    },
+    {
+        "file": "surface_view_overlay.xml",
+        "id": "hidecontainer",
+        "tag": "LinearLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "surface_view_overlay.xml",
+        "id": "hideme1",
+        "tag": "Button",
+        "contentDescription": "@string/hide_me"
+    },
+    {
+        "file": "surface_view_overlay.xml",
+        "id": "hideme2",
+        "tag": "Button",
+        "contentDescription": "@string/hide_me"
+    },
+    {
+        "file": "surface_view_overlay.xml",
+        "id": "vis",
+        "tag": "Button",
+        "contentDescription": "@string/visibility_1_vis"
+    },
+    {
+        "file": "surface_view_overlay.xml",
+        "id": "invis",
+        "tag": "Button",
+        "contentDescription": "@string/visibility_1_invis"
+    },
+    {
+        "file": "surface_view_overlay.xml",
+        "id": "gone",
+        "tag": "Button",
+        "contentDescription": "@string/visibility_1_gone"
+    },
+    {
+        "file": "switches.xml",
+        "id": "monitored_switch",
+        "tag": "Switch",
+        "contentDescription": "Monitored switch"
+    },
+    {
+        "file": "table_layout_10.xml",
+        "id": "username",
+        "tag": "EditText",
+        "contentDescription": "@string/table_layout_10_username_text"
+    },
+    {
+        "file": "table_layout_10.xml",
+        "id": "password",
+        "tag": "EditText",
+        "contentDescription": "@string/table_layout_10_password_text"
+    },
+    {
+        "file": "table_layout_10.xml",
+        "id": "cancel",
+        "tag": "Button",
+        "contentDescription": "@string/table_layout_10_cancel"
+    },
+    {
+        "file": "table_layout_10.xml",
+        "id": "login",
+        "tag": "Button",
+        "contentDescription": "@string/table_layout_10_login"
+    },
+    {
+        "file": "table_layout_7.xml",
+        "id": "menu",
+        "tag": "TableLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "table_layout_7.xml",
+        "id": "toggle2",
+        "tag": "Button",
+        "contentDescription": "@string/table_layout_7_toggle_checkmarks"
+    },
+    {
+        "file": "table_layout_7.xml",
+        "id": "toggle1",
+        "tag": "Button",
+        "contentDescription": "@string/table_layout_7_toggle_shortcuts"
+    },
+    {
+        "file": "table_layout_8.xml",
+        "id": "menu",
+        "tag": "TableLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "table_layout_8.xml",
+        "id": "toggle",
+        "tag": "Button",
+        "contentDescription": "@string/table_layout_8_toggle_stretch"
+    },
+    {
+        "file": "table_layout_9.xml",
+        "id": "menu",
+        "tag": "TableLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "table_layout_9.xml",
+        "id": "toggle",
+        "tag": "Button",
+        "contentDescription": "@string/table_layout_9_toggle_shrink"
+    },
+    {
+        "file": "tabs1.xml",
+        "id": "view1",
+        "tag": "TextView",
+        "contentDescription": "@string/tabs_1_tab_1"
+    },
+    {
+        "file": "tabs1.xml",
+        "id": "view2",
+        "tag": "TextView",
+        "contentDescription": "@string/tabs_1_tab_2"
+    },
+    {
+        "file": "tabs1.xml",
+        "id": "view3",
+        "tag": "TextView",
+        "contentDescription": "@string/tabs_1_tab_3"
+    },
+    {
+        "file": "tabs_right_gravity.xml",
+        "id": "tabhost",
+        "tag": "TabHost",
+        "contentDescription": ""
+    },
+    {
+        "file": "tabs_right_gravity.xml",
+        "id": "tabs",
+        "tag": "TabWidget",
+        "contentDescription": ""
+    },
+    {
+        "file": "tabs_right_gravity.xml",
+        "id": "tabcontent",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "tabs_scroll.xml",
+        "id": "tabhost",
+        "tag": "TabHost",
+        "contentDescription": ""
+    },
+    {
+        "file": "tabs_scroll.xml",
+        "id": "tabs",
+        "tag": "TabWidget",
+        "contentDescription": ""
+    },
+    {
+        "file": "tabs_scroll.xml",
+        "id": "tabcontent",
+        "tag": "FrameLayout",
+        "contentDescription": ""
+    },
+    {
+        "file": "tasklist_main.xml",
+        "id": "list",
+        "tag": "io.appium.android.apis.accessibility.TaskListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "tasklist_main.xml",
+        "id": "button",
+        "tag": "ImageButton",
+        "contentDescription": ""
+    },
+    {
+        "file": "tasklist_row.xml",
+        "id": "tasklist_label",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "tasklist_row.xml",
+        "id": "tasklist_finished",
+        "tag": "CheckBox",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_fields.xml",
+        "id": "edit",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_fields.xml",
+        "id": "edit1",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_fields.xml",
+        "id": "edit1Text",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_fields.xml",
+        "id": "edit2",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_fields.xml",
+        "id": "edit3",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_fields.xml",
+        "id": "edit3",
+        "tag": "EditText",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_switcher_1.xml",
+        "id": "next",
+        "tag": "Button",
+        "contentDescription": "@string/text_switcher_1_next_text"
+    },
+    {
+        "file": "text_switcher_1.xml",
+        "id": "switcher",
+        "tag": "TextSwitcher",
+        "contentDescription": ""
+    },
+    {
+        "file": "text_to_speech.xml",
+        "id": "again_button",
+        "tag": "Button",
+        "contentDescription": "@string/again"
+    },
+    {
+        "file": "translucent_background.xml",
+        "id": "text",
+        "tag": "TextView",
+        "contentDescription": "@string/translucent_background"
+    },
+    {
+        "file": "videoview.xml",
+        "id": "surface_view",
+        "tag": "VideoView",
+        "contentDescription": ""
+    },
+    {
+        "file": "video_player.xml",
+        "id": "content",
+        "tag": "view",
+        "contentDescription": ""
+    },
+    {
+        "file": "video_player.xml",
+        "id": "title",
+        "tag": "TextView",
+        "contentDescription": "A title goes here"
+    },
+    {
+        "file": "video_player.xml",
+        "id": "play",
+        "tag": "Button",
+        "contentDescription": ""
+    },
+    {
+        "file": "video_player.xml",
+        "id": "seekbar",
+        "tag": "SeekBar",
+        "contentDescription": ""
+    },
+    {
+        "file": "visibility_1.xml",
+        "id": "victim",
+        "tag": "TextView",
+        "contentDescription": "@string/visibility_1_view_2"
+    },
+    {
+        "file": "visibility_1.xml",
+        "id": "vis",
+        "tag": "Button",
+        "contentDescription": "@string/visibility_1_vis"
+    },
+    {
+        "file": "visibility_1.xml",
+        "id": "invis",
+        "tag": "Button",
+        "contentDescription": "@string/visibility_1_invis"
+    },
+    {
+        "file": "visibility_1.xml",
+        "id": "gone",
+        "tag": "Button",
+        "contentDescription": "@string/visibility_1_gone"
+    },
+    {
+        "file": "voice_recognition.xml",
+        "id": "btn_speak",
+        "tag": "Button",
+        "contentDescription": "@string/speak_button"
+    },
+    {
+        "file": "voice_recognition.xml",
+        "id": "supported_languages",
+        "tag": "Spinner",
+        "contentDescription": ""
+    },
+    {
+        "file": "voice_recognition.xml",
+        "id": "language_preference",
+        "tag": "TextView",
+        "contentDescription": ""
+    },
+    {
+        "file": "voice_recognition.xml",
+        "id": "list",
+        "tag": "ListView",
+        "contentDescription": ""
+    },
+    {
+        "file": "wallpaper_2.xml",
+        "id": "imageview",
+        "tag": "ImageView",
+        "contentDescription": ""
+    },
+    {
+        "file": "wallpaper_2.xml",
+        "id": "randomize",
+        "tag": "Button",
+        "contentDescription": "@string/randomize"
+    },
+    {
+        "file": "wallpaper_2.xml",
+        "id": "setwallpaper",
+        "tag": "Button",
+        "contentDescription": "@string/set_wallpaper"
+    },
+    {
+        "file": "webview_1.xml",
+        "id": "wv1",
+        "tag": "WebView",
+        "contentDescription": ""
+    },
+    {
+        "file": "webview_2.xml",
+        "id": "wv1",
+        "tag": "WebView",
+        "contentDescription": ""
+    },
+    {
+        "file": "webview_3.xml",
+        "id": "wv3",
+        "tag": "Button",
+        "contentDescription": "Open Chrome"
+    }
+]

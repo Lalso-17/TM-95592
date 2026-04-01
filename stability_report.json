@@ -1,0 +1,320 @@
+{
+    "total_elements": 1699,
+    "dominant_class": "TextView",
+    "dominant_class_percentage": 31.96,
+    "verdict": "LOW RISK",
+    "metrics": {
+        "LinearLayout": {
+            "count": 318,
+            "percentage": 18.72
+        },
+        "TextView": {
+            "count": 543,
+            "percentage": 31.96
+        },
+        "androidx.appcompat.view.menu.ActionMenuItemView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.ActionMenuView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.ActionBarContextView": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "ImageView": {
+            "count": 68,
+            "percentage": 4.0
+        },
+        "view": {
+            "count": 9,
+            "percentage": 0.53
+        },
+        "FrameLayout": {
+            "count": 40,
+            "percentage": 2.35
+        },
+        "ScrollView": {
+            "count": 29,
+            "percentage": 1.71
+        },
+        "androidx.appcompat.widget.ButtonBarLayout": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "Button": {
+            "count": 286,
+            "percentage": 16.83
+        },
+        "android.widget.Space": {
+            "count": 4,
+            "percentage": 0.24
+        },
+        "androidx.appcompat.widget.AlertDialogLayout": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "include": {
+            "count": 12,
+            "percentage": 0.71
+        },
+        "View": {
+            "count": 15,
+            "percentage": 0.88
+        },
+        "androidx.core.widget.NestedScrollView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.DialogTitle": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.view.menu.ListMenuItemView": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "Space": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.FitWindowsLinearLayout": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "androidx.appcompat.view.menu.ExpandedMenuView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "CheckBox": {
+            "count": 32,
+            "percentage": 1.88
+        },
+        "RelativeLayout": {
+            "count": 13,
+            "percentage": 0.77
+        },
+        "RadioButton": {
+            "count": 7,
+            "percentage": 0.41
+        },
+        "merge": {
+            "count": 5,
+            "percentage": 0.29
+        },
+        "androidx.appcompat.widget.ContentFrameLayout": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.ViewStubCompat": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "androidx.appcompat.widget.FitWindowsFrameLayout": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.ActionBarOverlayLayout": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.ActionBarContainer": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "androidx.appcompat.widget.Toolbar": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "ImageButton": {
+            "count": 8,
+            "percentage": 0.47
+        },
+        "requestFocus": {
+            "count": 39,
+            "percentage": 2.3
+        },
+        "EditText": {
+            "count": 39,
+            "percentage": 2.3
+        },
+        "ListView": {
+            "count": 16,
+            "percentage": 0.94
+        },
+        "ViewFlipper": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "Spinner": {
+            "count": 10,
+            "percentage": 0.59
+        },
+        "SeekBar": {
+            "count": 11,
+            "percentage": 0.65
+        },
+        "AutoCompleteTextView": {
+            "count": 6,
+            "percentage": 0.35
+        },
+        "MultiAutoCompleteTextView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "ToggleButton": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "Chronometer": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "RadioGroup": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "NumberPicker": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "io.appium.android.apis.view.LabelView": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "TimePicker": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "io.appium.android.apis.view.DraggableDot": {
+            "count": 4,
+            "percentage": 0.24
+        },
+        "WebView": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "fragment": {
+            "count": 4,
+            "percentage": 0.24
+        },
+        "ProgressBar": {
+            "count": 6,
+            "percentage": 0.35
+        },
+        "TabHost": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "TabWidget": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "Gallery": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "io.appium.android.apis.view.GameView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "GridView": {
+            "count": 6,
+            "percentage": 0.35
+        },
+        "GridLayout": {
+            "count": 3,
+            "percentage": 0.18
+        },
+        "HorizontalScrollView": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "io.appium.android.apis.view.HoverInterceptorView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "ImageSwitcher": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "io.appium.android.apis.text.LogTextBox": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "TableLayout": {
+            "count": 14,
+            "percentage": 0.82
+        },
+        "TableRow": {
+            "count": 60,
+            "percentage": 3.53
+        },
+        "com.google.android.maps.MapView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "SurfaceView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "ViewStub": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "DateTimeView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "android.opengl.GLSurfaceView": {
+            "count": 4,
+            "percentage": 0.24
+        },
+        "QuickContactBadge": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "RatingBar": {
+            "count": 4,
+            "percentage": 0.24
+        },
+        "SearchView": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "io.appium.android.apis.view.SecureViewOverlay": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "CheckedTextView": {
+            "count": 2,
+            "percentage": 0.12
+        },
+        "io.appium.android.apis.view.CheckableFrameLayout": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "Switch": {
+            "count": 9,
+            "percentage": 0.53
+        },
+        "io.appium.android.apis.accessibility.TaskListView": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "TextClock": {
+            "count": 5,
+            "percentage": 0.29
+        },
+        "TextSwitcher": {
+            "count": 1,
+            "percentage": 0.06
+        },
+        "VideoView": {
+            "count": 1,
+            "percentage": 0.06
+        }
+    }
+}
